@@ -1,0 +1,10 @@
+E:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\DBSubsystemInterface\bin\Debug\DBSubsystemInterface.dll
+E:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\DBSubsystemInterface\bin\Debug\DBSubsystemInterface.pdb
+E:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\DBSubsystemInterface\obj\Debug\DBSubsystemInterface.csprojResolveAssemblyReference.cache
+E:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\DBSubsystemInterface\obj\Debug\DBSubsystemInterface.dll
+E:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\DBSubsystemInterface\obj\Debug\DBSubsystemInterface.pdb
+F:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\DBSubsystemInterface\bin\Debug\DBSubsystemInterface.dll
+F:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\DBSubsystemInterface\bin\Debug\DBSubsystemInterface.pdb
+F:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\DBSubsystemInterface\obj\Debug\DBSubsystemInterface.csprojResolveAssemblyReference.cache
+F:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\DBSubsystemInterface\obj\Debug\DBSubsystemInterface.dll
+F:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\DBSubsystemInterface\obj\Debug\DBSubsystemInterface.pdb

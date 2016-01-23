@@ -1,0 +1,5 @@
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\DataBinding\WPFDataBinding\CS\service\bin\service.dll
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\DataBinding\WPFDataBinding\CS\service\bin\service.pdb
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\DataBinding\WPFDataBinding\CS\service\obj\Debug\service.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\DataBinding\WPFDataBinding\CS\service\obj\Debug\service.dll
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\DataBinding\WPFDataBinding\CS\service\obj\Debug\service.pdb

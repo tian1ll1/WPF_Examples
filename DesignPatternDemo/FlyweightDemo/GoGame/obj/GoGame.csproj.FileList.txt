@@ -1,0 +1,7 @@
+bin\Debug\GoGame.exe
+bin\Debug\GoGame.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GoGame.Form1.resources
+obj\Debug\GoGame.csproj.GenerateResource.Cache
+obj\Debug\GoGame.exe
+obj\Debug\GoGame.pdb

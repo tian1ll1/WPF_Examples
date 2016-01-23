@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\TrustedFacade\CS\BackendService\bin\BackendService.exe.config
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\TrustedFacade\CS\BackendService\bin\BackendService.exe
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\TrustedFacade\CS\BackendService\bin\BackendService.pdb
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\TrustedFacade\CS\BackendService\obj\Debug\BackendService.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\TrustedFacade\CS\BackendService\obj\Debug\BackendService.exe
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\TrustedFacade\CS\BackendService\obj\Debug\BackendService.pdb

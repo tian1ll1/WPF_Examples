@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentCommands", "DocumentCommands\DocumentCommands.csproj", "{0B5BD3A8-F82D-41D3-BA45-70E1BBC24551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B5BD3A8-F82D-41D3-BA45-70E1BBC24551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5BD3A8-F82D-41D3-BA45-70E1BBC24551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5BD3A8-F82D-41D3-BA45-70E1BBC24551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5BD3A8-F82D-41D3-BA45-70E1BBC24551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

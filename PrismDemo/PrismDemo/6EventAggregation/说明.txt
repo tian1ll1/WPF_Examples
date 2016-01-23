@@ -1,0 +1,14 @@
+1.定义基础事件 
+EventAggregation.Infrastructure.FundAddedEvent
+FundOrder
+2. Publish 事件：
+eventAggregator.GetEvent<FundAddedEvent>().Publish(fundOrder);
+
+3. Event订阅
+activityView1.CustomerId = "Customer1";
+
+  FundAddedEvent fundAddedEvent = eventAggregator.GetEvent<FundAddedEvent>();
+
+                subscriptionToken = fundAddedEvent.Subscribe(FundAddedEventHandler, ThreadOption.UIThread, false, FundOrderFilter);
+
+              

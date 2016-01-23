@@ -1,0 +1,7 @@
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\InterpreterDemo\obj\Debug\InterpreterSample.exe
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\InterpreterDemo\obj\Debug\InterpreterSample.pdb
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\InterpreterDemo\bin\Debug\InterpreterSample.exe
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\InterpreterDemo\bin\Debug\InterpreterSample.pdb
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\InterpreterDemo\obj\Debug\InterpreterSample.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\InterpreterDemo\obj\Debug\InterpreterSample.Form1.resources
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\InterpreterDemo\obj\Debug\InterpreterSample.csproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirCondition", "AirCondition\AirCondition.csproj", "{CE08B5C6-8ACF-4E96-9378-1FC24D4DE877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE08B5C6-8ACF-4E96-9378-1FC24D4DE877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE08B5C6-8ACF-4E96-9378-1FC24D4DE877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE08B5C6-8ACF-4E96-9378-1FC24D4DE877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE08B5C6-8ACF-4E96-9378-1FC24D4DE877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

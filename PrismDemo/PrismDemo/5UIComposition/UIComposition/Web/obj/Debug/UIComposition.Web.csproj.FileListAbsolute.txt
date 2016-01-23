@@ -1,0 +1,12 @@
+D:\Documents\Documents\项目\上海花旗\Prism\Prism4.1\Quickstarts\UIComposition\Web\bin\UIComposition.Web.dll.config
+D:\Documents\Documents\项目\上海花旗\Prism\Prism4.1\Quickstarts\UIComposition\Web\bin\UIComposition.Web.dll
+D:\Documents\Documents\项目\上海花旗\Prism\Prism4.1\Quickstarts\UIComposition\Web\bin\UIComposition.Web.pdb
+D:\Documents\Documents\项目\上海花旗\Prism\Prism4.1\Quickstarts\UIComposition\Web\obj\Debug\UIComposition.Web.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\项目\上海花旗\Prism\Prism4.1\Quickstarts\UIComposition\Web\obj\Debug\UIComposition.Web.dll
+D:\Documents\Documents\项目\上海花旗\Prism\Prism4.1\Quickstarts\UIComposition\Web\obj\Debug\UIComposition.Web.pdb
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\5UIComposition\UIComposition\Web\bin\UIComposition.Web.dll.config
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\5UIComposition\UIComposition\Web\bin\UIComposition.Web.dll
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\5UIComposition\UIComposition\Web\bin\UIComposition.Web.pdb
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\5UIComposition\UIComposition\Web\obj\Debug\UIComposition.Web.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\5UIComposition\UIComposition\Web\obj\Debug\UIComposition.Web.dll
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\5UIComposition\UIComposition\Web\obj\Debug\UIComposition.Web.pdb

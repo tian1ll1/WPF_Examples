@@ -1,0 +1,14 @@
+﻿<Application
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:sys="clr-namespace:System;assembly=mscorlib"
+	x:Class="ResourceHierarchy.App"
+	StartupUri="Window1.xaml">
+	<Application.Resources>
+		<!-- Resources scoped at the Application level should be defined here. -->
+		<sys:String x:Key="String1">String1 in App.Resources.</sys:String>
+		<sys:String x:Key="String2">String2 in App.Resources.</sys:String>
+		<sys:String x:Key="String3">String3 in App.Resources.</sys:String>
+		<sys:String x:Key="String4">String4 in App.Resources.</sys:String>
+	</Application.Resources>
+</Application>

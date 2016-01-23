@@ -1,0 +1,8 @@
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\MoqDemo\bin\Debug\MoqDemo.exe.config
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\MoqDemo\bin\Debug\MoqDemo.exe
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\MoqDemo\bin\Debug\MoqDemo.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\MoqDemo\obj\Debug\MoqDemo.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\MoqDemo\obj\Debug\MoqDemo.Properties.Resources.resources
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\MoqDemo\obj\Debug\MoqDemo.csproj.GenerateResource.Cache
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\MoqDemo\obj\Debug\MoqDemo.exe
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\MoqDemo\obj\Debug\MoqDemo.pdb

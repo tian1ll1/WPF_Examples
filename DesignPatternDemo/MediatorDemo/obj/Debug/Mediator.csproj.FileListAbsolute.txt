@@ -1,0 +1,2 @@
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\MediatorDemo\obj\Debug\Mediator.exe
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\MediatorDemo\obj\Debug\Mediator.pdb

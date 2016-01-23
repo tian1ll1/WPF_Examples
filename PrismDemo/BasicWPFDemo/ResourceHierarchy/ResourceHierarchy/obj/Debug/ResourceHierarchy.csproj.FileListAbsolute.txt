@@ -1,0 +1,13 @@
+D:\Documents\Documents\项目\上海花旗\OldDemo\DemoCode\Wrox_Professional_WPF\code\Ch12\ResourceHierarchy\ResourceHierarchy\bin\Debug\ResourceHierarchy.exe
+D:\Documents\Documents\项目\上海花旗\OldDemo\DemoCode\Wrox_Professional_WPF\code\Ch12\ResourceHierarchy\ResourceHierarchy\bin\Debug\ResourceHierarchy.pdb
+D:\Documents\Documents\项目\上海花旗\OldDemo\DemoCode\Wrox_Professional_WPF\code\Ch12\ResourceHierarchy\ResourceHierarchy\obj\Debug\ResourceHierarchy.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\项目\上海花旗\OldDemo\DemoCode\Wrox_Professional_WPF\code\Ch12\ResourceHierarchy\ResourceHierarchy\obj\Debug\Window1.baml
+D:\Documents\Documents\项目\上海花旗\OldDemo\DemoCode\Wrox_Professional_WPF\code\Ch12\ResourceHierarchy\ResourceHierarchy\obj\Debug\App.baml
+D:\Documents\Documents\项目\上海花旗\OldDemo\DemoCode\Wrox_Professional_WPF\code\Ch12\ResourceHierarchy\ResourceHierarchy\obj\Debug\Window1.g.cs
+D:\Documents\Documents\项目\上海花旗\OldDemo\DemoCode\Wrox_Professional_WPF\code\Ch12\ResourceHierarchy\ResourceHierarchy\obj\Debug\App.g.cs
+D:\Documents\Documents\项目\上海花旗\OldDemo\DemoCode\Wrox_Professional_WPF\code\Ch12\ResourceHierarchy\ResourceHierarchy\obj\Debug\ResourceHierarchy_MarkupCompile.cache
+D:\Documents\Documents\项目\上海花旗\OldDemo\DemoCode\Wrox_Professional_WPF\code\Ch12\ResourceHierarchy\ResourceHierarchy\obj\Debug\ResourceHierarchy.g.resources
+D:\Documents\Documents\项目\上海花旗\OldDemo\DemoCode\Wrox_Professional_WPF\code\Ch12\ResourceHierarchy\ResourceHierarchy\obj\Debug\ResourceHierarchy.exe
+D:\Documents\Documents\项目\上海花旗\OldDemo\DemoCode\Wrox_Professional_WPF\code\Ch12\ResourceHierarchy\ResourceHierarchy\obj\Debug\ResourceHierarchy.pdb
+E:\Lecture\Performance\SH2014\Demos\BasicWPFDemo\ResourceHierarchy\ResourceHierarchy\obj\Debug\ResourceHierarchy.exe
+E:\Lecture\Performance\SH2014\Demos\BasicWPFDemo\ResourceHierarchy\ResourceHierarchy\obj\Debug\ResourceHierarchy.pdb

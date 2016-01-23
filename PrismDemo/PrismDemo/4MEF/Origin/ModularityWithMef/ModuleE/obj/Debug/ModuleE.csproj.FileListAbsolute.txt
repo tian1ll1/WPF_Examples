@@ -1,0 +1,16 @@
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleE\bin\Debug\ModularityWithMef.Desktop.ModuleE.dll
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleE\bin\Debug\ModularityWithMef.Desktop.ModuleE.pdb
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleE\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleE\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleE\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleE\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleE\bin\Debug\ModularityWithMef.Desktop.ModuleTracking.dll
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleE\bin\Debug\ModularityWithMef.Desktop.ModuleTracking.pdb
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleE\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleE\bin\Debug\Microsoft.Practices.Prism.MefExtensions.xml
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleE\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleE\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleE\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleE\obj\Debug\ModuleE.csprojResolveAssemblyReference.cache
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleE\obj\Debug\ModularityWithMef.Desktop.ModuleE.dll
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleE\obj\Debug\ModularityWithMef.Desktop.ModuleE.pdb

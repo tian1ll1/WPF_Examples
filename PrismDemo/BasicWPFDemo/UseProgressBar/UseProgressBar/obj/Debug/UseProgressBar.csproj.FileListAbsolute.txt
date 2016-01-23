@@ -1,0 +1,10 @@
+D:\Documents\Documents\项目\上海花旗\DemoCode\Wrox_Professional_WPF\code\Ch05\UseProgressBar\UseProgressBar\bin\Debug\UseProgressBar.exe
+D:\Documents\Documents\项目\上海花旗\DemoCode\Wrox_Professional_WPF\code\Ch05\UseProgressBar\UseProgressBar\bin\Debug\UseProgressBar.pdb
+D:\Documents\Documents\项目\上海花旗\DemoCode\Wrox_Professional_WPF\code\Ch05\UseProgressBar\UseProgressBar\obj\Debug\UseProgressBar.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\项目\上海花旗\DemoCode\Wrox_Professional_WPF\code\Ch05\UseProgressBar\UseProgressBar\obj\Debug\Window1.baml
+D:\Documents\Documents\项目\上海花旗\DemoCode\Wrox_Professional_WPF\code\Ch05\UseProgressBar\UseProgressBar\obj\Debug\Window1.g.cs
+D:\Documents\Documents\项目\上海花旗\DemoCode\Wrox_Professional_WPF\code\Ch05\UseProgressBar\UseProgressBar\obj\Debug\App.g.cs
+D:\Documents\Documents\项目\上海花旗\DemoCode\Wrox_Professional_WPF\code\Ch05\UseProgressBar\UseProgressBar\obj\Debug\UseProgressBar_MarkupCompile.cache
+D:\Documents\Documents\项目\上海花旗\DemoCode\Wrox_Professional_WPF\code\Ch05\UseProgressBar\UseProgressBar\obj\Debug\UseProgressBar.g.resources
+D:\Documents\Documents\项目\上海花旗\DemoCode\Wrox_Professional_WPF\code\Ch05\UseProgressBar\UseProgressBar\obj\Debug\UseProgressBar.exe
+D:\Documents\Documents\项目\上海花旗\DemoCode\Wrox_Professional_WPF\code\Ch05\UseProgressBar\UseProgressBar\obj\Debug\UseProgressBar.pdb

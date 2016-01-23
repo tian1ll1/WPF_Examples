@@ -1,0 +1,9 @@
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\PrdCls.Test\obj\Debug\PrdCls.Test.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\PrdCls.Test\bin\Debug\PrdCls.Test.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\PrdCls.Test\bin\Debug\PrdCls.Test.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\PrdCls.Test\bin\Debug\PrdCls.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\PrdCls.Test\bin\Debug\PrdCls.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\PrdCls.Test\obj\Debug\PrdCls.Test.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\PrdCls.Test\obj\Debug\PrdCls.Test.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\PrdCls.Test\bin\Debug\Moq.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\PrdCls.Test\bin\Debug\Moq.xml

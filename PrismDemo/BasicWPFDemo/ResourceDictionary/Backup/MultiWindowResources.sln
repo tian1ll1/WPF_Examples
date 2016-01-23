@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiWindowResources", "MultiWindowResources\MultiWindowResources.csproj", "{EEF38D31-64E2-4495-B3C6-FCB68A200AFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF38D31-64E2-4495-B3C6-FCB68A200AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF38D31-64E2-4495-B3C6-FCB68A200AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF38D31-64E2-4495-B3C6-FCB68A200AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF38D31-64E2-4495-B3C6-FCB68A200AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

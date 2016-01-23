@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\BuilderDemo\RefinedBuilderLib\bin\Debug\RefinedBuilderLib.dll
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\BuilderDemo\RefinedBuilderLib\bin\Debug\RefinedBuilderLib.pdb
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\BuilderDemo\RefinedBuilderLib\obj\Debug\RefinedBuilderLib.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\BuilderDemo\RefinedBuilderLib\obj\Debug\RefinedBuilderLib.dll
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\BuilderDemo\RefinedBuilderLib\obj\Debug\RefinedBuilderLib.pdb
+D:\Documents\Documents\Lecture\DesignPattern\Demo\BuilderDemo\RefinedBuilderLib\bin\Debug\RefinedBuilderLib.dll
+D:\Documents\Documents\Lecture\DesignPattern\Demo\BuilderDemo\RefinedBuilderLib\bin\Debug\RefinedBuilderLib.pdb
+D:\Documents\Documents\Lecture\DesignPattern\Demo\BuilderDemo\RefinedBuilderLib\obj\Debug\RefinedBuilderLib.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\Lecture\DesignPattern\Demo\BuilderDemo\RefinedBuilderLib\obj\Debug\RefinedBuilderLib.dll
+D:\Documents\Documents\Lecture\DesignPattern\Demo\BuilderDemo\RefinedBuilderLib\obj\Debug\RefinedBuilderLib.pdb
+E:\Lecture\DesignPattern\Demo\BuilderDemo\RefinedBuilderLib\bin\Debug\RefinedBuilderLib.dll
+E:\Lecture\DesignPattern\Demo\BuilderDemo\RefinedBuilderLib\bin\Debug\RefinedBuilderLib.pdb
+E:\Lecture\DesignPattern\Demo\BuilderDemo\RefinedBuilderLib\obj\Debug\RefinedBuilderLib.csprojResolveAssemblyReference.cache
+E:\Lecture\DesignPattern\Demo\BuilderDemo\RefinedBuilderLib\obj\Debug\RefinedBuilderLib.dll
+E:\Lecture\DesignPattern\Demo\BuilderDemo\RefinedBuilderLib\obj\Debug\RefinedBuilderLib.pdb

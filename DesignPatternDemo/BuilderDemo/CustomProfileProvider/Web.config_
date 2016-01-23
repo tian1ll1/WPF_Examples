@@ -1,0 +1,34 @@
+<configuration>
+  <connectionStrings>
+    <add name="OdbcProfile" connectionString="DSN=OdbcProfile;" />
+  </connectionStrings>
+
+  <system.web>
+    <authentication mode="Forms" >
+      <forms loginUrl="login.aspx"
+        name=".ASPXFORMSAUTH" />
+    </authentication>
+
+    <anonymousIdentification enabled="true" />
+
+    <profile defaultProvider="OdbcProvider">
+      <providers>
+        <add
+          name="OdbcProvider"
+          type="Samples.AspNet.Profile.OdbcProfileProvider" 
+          connectionStringName="OdbcProfile" />
+      </providers>
+
+      <properties>
+        <add name="ZipCode" 
+          allowAnonymous="true" />
+        <add name="CityAndState" 
+          provider="AspNetSqlProfileProvider" 
+          allowAnonymous="true" />
+        <add name="StockSymbols" 
+          type="System.Collections.ArrayList" 
+          allowAnonymous="true" />
+      </properties>
+    </profile>
+  </system.web>
+</configuration>

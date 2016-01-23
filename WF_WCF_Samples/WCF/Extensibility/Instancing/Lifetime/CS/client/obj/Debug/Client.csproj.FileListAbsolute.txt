@@ -1,0 +1,1 @@
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Extensibility\Instancing\Lifetime\CS\Client\bin\Client.exe.config

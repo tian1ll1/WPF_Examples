@@ -1,0 +1,4 @@
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\AbstractFactoryDemo1\AbstractFactoryDemo1\obj\Debug\AbstractFactoryDemo1.exe
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\AbstractFactoryDemo1\AbstractFactoryDemo1\obj\Debug\AbstractFactoryDemo1.pdb
+E:\Lecture\DesignPattern\Demo\AbstractFactoryDemo1\AbstractFactoryDemo1\obj\Debug\AbstractFactoryDemo1.exe
+E:\Lecture\DesignPattern\Demo\AbstractFactoryDemo1\AbstractFactoryDemo1\obj\Debug\AbstractFactoryDemo1.pdb

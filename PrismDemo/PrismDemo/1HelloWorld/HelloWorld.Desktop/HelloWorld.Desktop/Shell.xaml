@@ -1,0 +1,11 @@
+﻿<Window x:Class="HelloWorld.Desktop.Shell"
+        xmlns:prism="http://www.codeplex.com/prism"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        
+        Title="Hello World" Height="350" Width="525">
+    <Grid>
+       
+        <ItemsControl Name="MainRegion"  prism:RegionManager.RegionName="MainRegion"/>
+    </Grid>
+</Window>

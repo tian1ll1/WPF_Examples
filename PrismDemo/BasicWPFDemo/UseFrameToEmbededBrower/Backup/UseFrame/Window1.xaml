@@ -1,0 +1,34 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="UseFrame.Window1"
+	x:Name="Window"
+	Title="UseFrame"
+	Width="700" Height="500" Background="Red">
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="35"/>
+			<RowDefinition Height="*"/>
+		</Grid.RowDefinitions>
+		<ComboBox Grid.Row="0" SelectedIndex="0" Name="cboSites" Margin="5">
+			<ComboBoxItem Content="Beginning Database Design Solutions  (http://www.vb-helper.com/db_design.htm)"
+			 Tag="http://www.vb-helper.com/db_design.htm"/>
+			<ComboBoxItem Content="VB Helper  (www.vb-helper.com)"
+			 Tag="http://www.vb-helper.com"/>
+			<ComboBoxItem Content="VB Helper Bookstore  (http://astore.amazon.com/vbhelper/about)"
+			 Tag="http://astore.amazon.com/vbhelper/about"/>
+			<ComboBoxItem Content="Books To Keep  (http://www.BooksToKeep.com)"
+			 Tag="http://www.BooksToKeep.com"/>
+			<ComboBoxItem Content="Astronomy Picture of the Day (http://antwrp.gsfc.nasa.gov/apod)"
+			 Tag="http://antwrp.gsfc.nasa.gov/apod"/>
+		</ComboBox>
+        <Frame Name="fraGo" Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5"
+		 Source="{Binding ElementName=cboSites, Path=SelectedItem.Tag}">
+<!--
+			<Frame.Source>
+				<Binding ElementName="cboSites" Path="SelectedItem.Tag" />
+			</Frame.Source>
+-->
+		</Frame>
+	</Grid>
+</Window>

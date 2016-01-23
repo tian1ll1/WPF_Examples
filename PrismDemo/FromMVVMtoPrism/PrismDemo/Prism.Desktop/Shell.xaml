@@ -1,0 +1,22 @@
+﻿<Window x:Class="PrismDemo.Shell"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:cal="http://www.codeplex.com/prism"
+    Title="Hello World" Height="600" Width="600">
+    <!--<StackPanel>
+        <ContentControl Name="SimpleRegion" cal:RegionManager.RegionName="SimpleRegion" />
+        <ContentControl Name="MainRegion" cal:RegionManager.RegionName="MainRegion"/>
+    </StackPanel>-->
+
+    <TabControl>
+
+        <TabItem Header="Prism MVVM">
+            <ContentControl Name="MainRegion" cal:RegionManager.RegionName="MainRegion"/>
+        </TabItem>
+
+        <TabItem Header="Prism MVVM View-ViewMoedl Binding Convention">
+            <ContentControl Name="PrismKeyConceptsRegion" cal:RegionManager.RegionName="PrismKeyConceptsRegion"/>
+        </TabItem>
+
+    </TabControl>
+</Window>

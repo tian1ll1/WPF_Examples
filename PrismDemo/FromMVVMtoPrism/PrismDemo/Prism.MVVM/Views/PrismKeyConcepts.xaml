@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="PrismDemo.Mvvm.Views.PrismKeyConcepts"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:viewmodels="clr-namespace:PrismDemo.Mvvm.ViewModels"
+             xmlns:prism="clr-namespace:Microsoft.Practices.Prism.Mvvm;assembly=Microsoft.Practices.Prism.Mvvm.Desktop"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DataContext="{d:DesignInstance viewmodels:PrismKeyConceptsViewModel, IsDesignTimeCreatable=True}"
+             prism:ViewModelLocator.AutoWireViewModel="True">
+    <StackPanel Height="300" Width="300" Button.Click="btnClick">
+        <ListView ItemsSource="{Binding KeyConcepts}" Width="200" />
+        <!--Bubble event-->
+        <Button Name="testBtn" Content="Raise a bubble event" Click="btnClick"/>
+    </StackPanel>
+</UserControl>

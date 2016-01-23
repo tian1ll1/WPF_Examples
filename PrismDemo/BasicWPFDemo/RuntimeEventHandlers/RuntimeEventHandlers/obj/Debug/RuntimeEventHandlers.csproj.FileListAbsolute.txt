@@ -1,0 +1,12 @@
+D:\Documents\Documents\项目\上海花旗\Demo\DemoCode\Wrox_Professional_WPF\code\Ch11\RuntimeEventHandlers\RuntimeEventHandlers\bin\Debug\RuntimeEventHandlers.exe
+D:\Documents\Documents\项目\上海花旗\Demo\DemoCode\Wrox_Professional_WPF\code\Ch11\RuntimeEventHandlers\RuntimeEventHandlers\bin\Debug\RuntimeEventHandlers.pdb
+D:\Documents\Documents\项目\上海花旗\Demo\DemoCode\Wrox_Professional_WPF\code\Ch11\RuntimeEventHandlers\RuntimeEventHandlers\obj\Debug\RuntimeEventHandlers.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\项目\上海花旗\Demo\DemoCode\Wrox_Professional_WPF\code\Ch11\RuntimeEventHandlers\RuntimeEventHandlers\obj\Debug\Window1.baml
+D:\Documents\Documents\项目\上海花旗\Demo\DemoCode\Wrox_Professional_WPF\code\Ch11\RuntimeEventHandlers\RuntimeEventHandlers\obj\Debug\Window1.g.cs
+D:\Documents\Documents\项目\上海花旗\Demo\DemoCode\Wrox_Professional_WPF\code\Ch11\RuntimeEventHandlers\RuntimeEventHandlers\obj\Debug\App.g.cs
+D:\Documents\Documents\项目\上海花旗\Demo\DemoCode\Wrox_Professional_WPF\code\Ch11\RuntimeEventHandlers\RuntimeEventHandlers\obj\Debug\RuntimeEventHandlers_MarkupCompile.cache
+D:\Documents\Documents\项目\上海花旗\Demo\DemoCode\Wrox_Professional_WPF\code\Ch11\RuntimeEventHandlers\RuntimeEventHandlers\obj\Debug\RuntimeEventHandlers.g.resources
+D:\Documents\Documents\项目\上海花旗\Demo\DemoCode\Wrox_Professional_WPF\code\Ch11\RuntimeEventHandlers\RuntimeEventHandlers\obj\Debug\RuntimeEventHandlers.exe
+D:\Documents\Documents\项目\上海花旗\Demo\DemoCode\Wrox_Professional_WPF\code\Ch11\RuntimeEventHandlers\RuntimeEventHandlers\obj\Debug\RuntimeEventHandlers.pdb
+E:\Lecture\Performance\SH2014\Demos\BasicWPFDemo\RuntimeEventHandlers\RuntimeEventHandlers\obj\Debug\RuntimeEventHandlers.exe
+E:\Lecture\Performance\SH2014\Demos\BasicWPFDemo\RuntimeEventHandlers\RuntimeEventHandlers\obj\Debug\RuntimeEventHandlers.pdb

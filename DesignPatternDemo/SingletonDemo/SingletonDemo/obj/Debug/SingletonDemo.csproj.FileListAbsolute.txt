@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.exe
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.pdb
+E:\Lecture\DesignPattern\Demo\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.exe
+E:\Lecture\DesignPattern\Demo\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.pdb
+F:\Lecture\DesignPattern\Demo\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.exe
+F:\Lecture\DesignPattern\Demo\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.pdb

@@ -1,0 +1,25 @@
+﻿<ResourceDictionary
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:sys="clr-namespace:System;assembly=mscorlib">
+	<!-- Resource dictionary entries should be defined here. -->
+	<sys:Double x:Key="rectWidth">140</sys:Double>
+	<sys:Double x:Key="rectHeight">50</sys:Double>
+	<sys:Double x:Key="rectRadX">5</sys:Double>
+	<sys:Double x:Key="rectRadY">20</sys:Double>
+	<sys:Double x:Key="rectFontSize">20</sys:Double>
+	<FontWeight x:Key="rectFontWeight">Bold</FontWeight>
+	<LinearGradientBrush x:Key="rectFill" StartPoint="0,0" EndPoint="0,1">
+		<GradientStop Color="Lime" Offset="0"/>
+		<GradientStop Color="Green" Offset="1"/>
+	</LinearGradientBrush>
+	<LinearGradientBrush x:Key="rectStroke" StartPoint="0,1" EndPoint="0,0">
+		<GradientStop Color="Lime" Offset="0"/>
+		<GradientStop Color="Green" Offset="1"/>
+	</LinearGradientBrush>
+	<sys:Double x:Key="rectStrokeThickness">5</sys:Double>
+	<Thickness x:Key="rectMargin" Left="5" Top="5" Right="5" Bottom="5"/>
+	<BitmapEffectGroup x:Key="rectBitmapEffect">
+		<DropShadowBitmapEffect/>
+	</BitmapEffectGroup>
+</ResourceDictionary>

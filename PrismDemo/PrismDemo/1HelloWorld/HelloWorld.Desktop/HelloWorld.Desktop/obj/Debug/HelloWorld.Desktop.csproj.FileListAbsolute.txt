@@ -1,0 +1,48 @@
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.Desktop.exe.config
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.Desktop.exe
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.Desktop.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\Shell.baml
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\Shell.g.cs
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\App.g.cs
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop_MarkupCompile.cache
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop.g.resources
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop.Properties.Resources.resources
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop.csproj.GenerateResource.Cache
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop.exe
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorldModule.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorldModule.pdb
+D:\Documents\Documents\项目\上海花旗\Demos\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.Desktop.exe.config
+D:\Documents\Documents\项目\上海花旗\Demos\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop.exe
+D:\Documents\Documents\项目\上海花旗\Demos\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop.pdb
+E:\Lecture\Performance\SH2014\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.Desktop.exe.config
+E:\Lecture\Performance\SH2014\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop.exe
+E:\Lecture\Performance\SH2014\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop.pdb
+E:\Lecture\Performance\SH2014\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop.csprojResolveAssemblyReference.cache
+E:\Lecture\Performance\SH2014\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\Shell.baml
+E:\Lecture\Performance\SH2014\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\Shell.g.cs
+E:\Lecture\Performance\SH2014\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\App.g.cs
+E:\Lecture\Performance\SH2014\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop_MarkupCompile.cache
+E:\Lecture\Performance\SH2014\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop.g.resources
+E:\Lecture\Performance\SH2014\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop.Properties.Resources.resources
+E:\Lecture\Performance\SH2014\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop.csproj.GenerateResource.Cache
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.Desktop.exe.config
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\Shell.baml
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\Shell.g.cs
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\App.g.cs
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop_MarkupCompile.cache
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop.g.resources
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop.Properties.Resources.resources
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Desktop.csproj.GenerateResource.Cache

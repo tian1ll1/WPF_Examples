@@ -1,0 +1,9 @@
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\FromMVVMtoPrism\PrismDemo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\FromMVVMtoPrism\PrismDemo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\FromMVVMtoPrism\PrismDemo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\FromMVVMtoPrism\PrismDemo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\FromMVVMtoPrism\PrismDemo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\FromMVVMtoPrism\PrismDemo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\FromMVVMtoPrism\PrismDemo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\FromMVVMtoPrism\PrismDemo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\FromMVVMtoPrism\PrismDemo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

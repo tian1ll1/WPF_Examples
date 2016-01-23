@@ -1,0 +1,2 @@
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\TemplateMethodDemo\SQLBuilder\obj\Debug\SQLBuilder.exe
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\TemplateMethodDemo\SQLBuilder\obj\Debug\SQLBuilder.pdb

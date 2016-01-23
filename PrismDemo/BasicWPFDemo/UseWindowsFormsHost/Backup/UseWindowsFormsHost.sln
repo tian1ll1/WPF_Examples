@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseWindowsFormsHost", "UseWindowsFormsHost\UseWindowsFormsHost.csproj", "{A5AAAB1E-CB69-4720-8713-264F8336F9EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5AAAB1E-CB69-4720-8713-264F8336F9EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5AAAB1E-CB69-4720-8713-264F8336F9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5AAAB1E-CB69-4720-8713-264F8336F9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5AAAB1E-CB69-4720-8713-264F8336F9EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

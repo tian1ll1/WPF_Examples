@@ -1,0 +1,56 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:sys="clr-namespace:System;assembly=mscorlib"
+	x:Class="ResourceHierarchy.Window1"
+	x:Name="Window"
+	Title="ResourceHierarchy"
+	Width="350" Height="180"
+	FontSize="16" FontWeight="Bold">
+	<Window.Background>
+		<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+			<GradientStop Color="#FFFFFFFF" Offset="0"/>
+			<GradientStop Color="#FFA6009F" Offset="1"/>
+		</LinearGradientBrush>
+	</Window.Background>
+
+	<Window.Resources>
+		<sys:String x:Key="String2">String2 in Window.Resources.</sys:String>
+		<sys:String x:Key="String3">String3 in Window.Resources.</sys:String>
+		<sys:String x:Key="String4">String4 in Window.Resources.</sys:String>
+	</Window.Resources>
+
+	<StackPanel Margin="5">
+		<StackPanel.Resources>
+			<sys:String x:Key="String3">
+                String3 in StackPanel.Resources.
+            </sys:String>
+            <sys:String x:Key="String4">
+                String4 in StackPanel.Resources.
+            </sys:String>
+        </StackPanel.Resources>
+        
+        <Label Content="{StaticResource String1}"/>
+		<Label Content="{StaticResource String2}"/>
+		<Label Content="{StaticResource String3}"/>
+		<Label>
+			<Label.Resources>
+				<sys:String x:Key="String4">
+                    String4 in Label.Resources.
+                </sys:String>
+			</Label.Resources>
+			<StaticResource ResourceKey="String4"/>
+		</Label>
+
+        <!-- The following doesn't work.
+             Expression Blend likes it but it won't run.
+		<Label Content="{StaticResource String4}">
+			<Label.Resources>
+				<sys:String x:Key="String4">
+                    String4 in Label.Resources.
+                </sys:String>
+			</Label.Resources>
+		</Label>
+		-->
+	</StackPanel>
+</Window>

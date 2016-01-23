@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\VisitorDemo.Properties.Resources.resources
+obj\Debug\VisitorDemo.csproj.GenerateResource.Cache
+bin\Debug\VisitorDemo.exe
+bin\Debug\VisitorDemo.pdb
+obj\Debug\VisitorDemo.exe
+obj\Debug\VisitorDemo.pdb

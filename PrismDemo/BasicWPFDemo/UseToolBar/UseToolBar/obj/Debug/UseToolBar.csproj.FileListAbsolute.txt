@@ -1,0 +1,10 @@
+D:\Documents\Documents\项目\上海花旗\Demo\DemoCode\Wrox_Professional_WPF\code\Ch06\UseToolBar\UseToolBar\bin\Debug\UseToolBar.exe
+D:\Documents\Documents\项目\上海花旗\Demo\DemoCode\Wrox_Professional_WPF\code\Ch06\UseToolBar\UseToolBar\bin\Debug\UseToolBar.pdb
+D:\Documents\Documents\项目\上海花旗\Demo\DemoCode\Wrox_Professional_WPF\code\Ch06\UseToolBar\UseToolBar\obj\Debug\UseToolBar.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\项目\上海花旗\Demo\DemoCode\Wrox_Professional_WPF\code\Ch06\UseToolBar\UseToolBar\obj\Debug\Window1.baml
+D:\Documents\Documents\项目\上海花旗\Demo\DemoCode\Wrox_Professional_WPF\code\Ch06\UseToolBar\UseToolBar\obj\Debug\Window1.g.cs
+D:\Documents\Documents\项目\上海花旗\Demo\DemoCode\Wrox_Professional_WPF\code\Ch06\UseToolBar\UseToolBar\obj\Debug\App.g.cs
+D:\Documents\Documents\项目\上海花旗\Demo\DemoCode\Wrox_Professional_WPF\code\Ch06\UseToolBar\UseToolBar\obj\Debug\UseToolBar_MarkupCompile.cache
+D:\Documents\Documents\项目\上海花旗\Demo\DemoCode\Wrox_Professional_WPF\code\Ch06\UseToolBar\UseToolBar\obj\Debug\UseToolBar.g.resources
+D:\Documents\Documents\项目\上海花旗\Demo\DemoCode\Wrox_Professional_WPF\code\Ch06\UseToolBar\UseToolBar\obj\Debug\UseToolBar.exe
+D:\Documents\Documents\项目\上海花旗\Demo\DemoCode\Wrox_Professional_WPF\code\Ch06\UseToolBar\UseToolBar\obj\Debug\UseToolBar.pdb

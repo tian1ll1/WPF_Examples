@@ -1,0 +1,80 @@
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.cache
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.g.resources
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.Properties.Resources.resources
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.GenerateResource.Cache
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.dll
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\WpfControlLibrary1\bin\Debug\Common.dll
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\WpfControlLibrary1\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\WpfControlLibrary1\bin\Debug\Common.pdb
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.dll
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.pdb
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\UserControlView.baml
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\UserControlView.g.cs
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.lref
+C:\Users\baoj\Desktop\WpfPrismApplication3\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.dll
+C:\Users\baoj\Desktop\WpfPrismApplication3\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\baoj\Desktop\WpfPrismApplication3\WpfControlLibrary1\bin\Debug\Common.dll
+C:\Users\baoj\Desktop\WpfPrismApplication3\WpfControlLibrary1\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\baoj\Desktop\WpfPrismApplication3\WpfControlLibrary1\bin\Debug\Common.pdb
+C:\Users\baoj\Desktop\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\baoj\Desktop\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\UserControlView.g.cs
+C:\Users\baoj\Desktop\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\baoj\Desktop\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.cache
+C:\Users\baoj\Desktop\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.lref
+C:\Users\baoj\Desktop\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\UserControlView.baml
+C:\Users\baoj\Desktop\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.g.resources
+C:\Users\baoj\Desktop\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.Properties.Resources.resources
+C:\Users\baoj\Desktop\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.GenerateResource.Cache
+C:\Users\baoj\Desktop\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.dll
+C:\Users\baoj\Desktop\WpfPrismApplication3\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.pdb
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.dll
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\WpfControlLibrary1\bin\Debug\Common.dll
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\WpfControlLibrary1\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\WpfControlLibrary1\bin\Debug\Common.pdb
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\UserControlView.g.cs
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.cache
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.lref
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\UserControlView.baml
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.g.resources
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.Properties.Resources.resources
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.GenerateResource.Cache
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.dll
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.pdb
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.dll
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.pdb
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\WpfControlLibrary1\bin\Debug\Common.dll
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\WpfControlLibrary1\bin\Debug\Microsoft.Practices.Composite.dll
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\WpfControlLibrary1\bin\Debug\Common.pdb
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\UserControlView.g.cs
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.cache
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.lref
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\UserControlView.baml
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.g.resources
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.Properties.Resources.resources
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.GenerateResource.Cache
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.dll
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.pdb
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.dll
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.pdb
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\WpfControlLibrary1\bin\Debug\Common.dll
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\WpfControlLibrary1\bin\Debug\Microsoft.Practices.Composite.dll
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\WpfControlLibrary1\bin\Debug\Common.pdb
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\UserControlView.g.cs
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.cache
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.lref
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\UserControlView.baml
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.g.resources
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.Properties.Resources.resources
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.GenerateResource.Cache
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.dll
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.pdb

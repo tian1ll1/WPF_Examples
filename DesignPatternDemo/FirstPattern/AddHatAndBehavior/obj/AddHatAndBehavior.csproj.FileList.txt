@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AddHatAndBehavior.Properties.Resources.resources
+obj\Debug\AddHatAndBehavior.csproj.GenerateResource.Cache
+bin\Debug\AddHatAndBehavior.exe
+bin\Debug\AddHatAndBehavior.pdb
+obj\Debug\AddHatAndBehavior.exe
+obj\Debug\AddHatAndBehavior.pdb

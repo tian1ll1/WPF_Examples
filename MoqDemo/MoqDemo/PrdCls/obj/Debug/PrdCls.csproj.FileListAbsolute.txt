@@ -1,0 +1,5 @@
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\PrdCls\bin\Debug\PrdCls.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\PrdCls\bin\Debug\PrdCls.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\PrdCls\obj\Debug\PrdCls.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\PrdCls\obj\Debug\PrdCls.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqDemo\PrdCls\obj\Debug\PrdCls.pdb

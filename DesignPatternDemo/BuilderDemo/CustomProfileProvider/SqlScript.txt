@@ -1,0 +1,26 @@
+CREATE TABLE Profiles
+(
+  UniqueID AutoIncrement NOT NULL PRIMARY KEY,
+  Username Text (255) NOT NULL,
+  ApplicationName Text (255) NOT NULL,
+  IsAnonymous YesNo, 
+  LastActivityDate DateTime,
+  LastUpdatedDate DateTime,
+    CONSTRAINT PKProfiles UNIQUE (Username, ApplicationName)
+)
+
+CREATE TABLE StockSymbols
+(
+  UniqueID Integer,
+  StockSymbol Text (10),
+    CONSTRAINT FKProfiles1 FOREIGN KEY (UniqueID)
+      REFERENCES Profiles
+)
+
+CREATE TABLE ProfileData
+(
+  UniqueID Integer,
+  ZipCode Text (10),
+    CONSTRAINT FKProfiles2 FOREIGN KEY (UniqueID)
+      REFERENCES Profiles
+)

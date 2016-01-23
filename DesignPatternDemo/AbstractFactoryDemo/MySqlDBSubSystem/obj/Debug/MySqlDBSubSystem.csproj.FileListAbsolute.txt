@@ -1,0 +1,7 @@
+F:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\MySqlDBSubSystem\obj\Debug\MySqlDBSubSystem.csprojResolveAssemblyReference.cache
+F:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\MySqlDBSubSystem\bin\Debug\MySqlDBSubSystem.dll
+F:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\MySqlDBSubSystem\bin\Debug\MySqlDBSubSystem.pdb
+F:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\MySqlDBSubSystem\bin\Debug\DBSubsystemInterface.dll
+F:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\MySqlDBSubSystem\bin\Debug\DBSubsystemInterface.pdb
+F:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\MySqlDBSubSystem\obj\Debug\MySqlDBSubSystem.dll
+F:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\MySqlDBSubSystem\obj\Debug\MySqlDBSubSystem.pdb

@@ -1,0 +1,11 @@
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\CommandAndObserverDemo\CommandAndObserver\obj\Debug\CommandAndObserver.exe
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\CommandAndObserverDemo\CommandAndObserver\obj\Debug\CommandAndObserver.pdb
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\CommandAndObserverDemo\CommandAndObserver\bin\Debug\CommandAndObserver.exe
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\CommandAndObserverDemo\CommandAndObserver\bin\Debug\CommandAndObserver.pdb
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\CommandAndObserverDemo\CommandAndObserver\obj\Debug\CommandAndObserver.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\CommandAndObserverDemo\CommandAndObserver\obj\Debug\CommandAndObserver.Form1.resources
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\CommandAndObserverDemo\CommandAndObserver\obj\Debug\CommandAndObserver.TestForm.resources
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\CommandAndObserverDemo\CommandAndObserver\obj\Debug\CommandAndObserver.Properties.Resources.resources
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\CommandAndObserverDemo\CommandAndObserver\obj\Debug\CommandAndObserver.UserControl1.resources
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\CommandAndObserverDemo\CommandAndObserver\obj\Debug\CommandAndObserver.UserControl2.resources
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\CommandAndObserverDemo\CommandAndObserver\obj\Debug\CommandAndObserver.csproj.GenerateResource.Cache

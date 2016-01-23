@@ -1,0 +1,1 @@
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\C#4and.Net4.5\WF_WCF_Samples\WCF\Basic\GettingStarted\GettingStarted\CS\client\bin\client.exe.config

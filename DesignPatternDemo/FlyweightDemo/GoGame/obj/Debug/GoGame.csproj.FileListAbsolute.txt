@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\FlyweightDemo\GoGame\obj\Debug\GoGame.exe
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\FlyweightDemo\GoGame\obj\Debug\GoGame.pdb
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\FlyweightDemo\GoGame\bin\Debug\GoGame.exe
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\FlyweightDemo\GoGame\bin\Debug\GoGame.pdb
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\FlyweightDemo\GoGame\obj\Debug\GoGame.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\FlyweightDemo\GoGame\obj\Debug\GoGame.Form1.resources
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\FlyweightDemo\GoGame\obj\Debug\GoGame.csproj.GenerateResource.Cache
+F:\Lecture\DesignPattern\Demo\FlyweightDemo\GoGame\obj\Debug\GoGame.exe
+F:\Lecture\DesignPattern\Demo\FlyweightDemo\GoGame\obj\Debug\GoGame.pdb
+F:\Lecture\DesignPattern\Demo\FlyweightDemo\GoGame\bin\Debug\GoGame.exe
+F:\Lecture\DesignPattern\Demo\FlyweightDemo\GoGame\bin\Debug\GoGame.pdb
+F:\Lecture\DesignPattern\Demo\FlyweightDemo\GoGame\obj\Debug\GoGame.csprojResolveAssemblyReference.cache
+F:\Lecture\DesignPattern\Demo\FlyweightDemo\GoGame\obj\Debug\GoGame.Form1.resources
+F:\Lecture\DesignPattern\Demo\FlyweightDemo\GoGame\obj\Debug\GoGame.csproj.GenerateResource.Cache

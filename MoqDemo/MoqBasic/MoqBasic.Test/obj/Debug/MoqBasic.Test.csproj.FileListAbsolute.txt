@@ -1,0 +1,9 @@
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqBasic\MoqBasic.Test\obj\Debug\MoqBasic.Test.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqBasic\MoqBasic.Test\bin\Debug\MoqBasic.Test.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqBasic\MoqBasic.Test\bin\Debug\MoqBasic.Test.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqBasic\MoqBasic.Test\bin\Debug\Moq.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqBasic\MoqBasic.Test\bin\Debug\MoqBasic.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqBasic\MoqBasic.Test\bin\Debug\MoqBasic.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqBasic\MoqBasic.Test\bin\Debug\Moq.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqBasic\MoqBasic.Test\obj\Debug\MoqBasic.Test.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\MoqBasic\MoqBasic.Test\obj\Debug\MoqBasic.Test.pdb

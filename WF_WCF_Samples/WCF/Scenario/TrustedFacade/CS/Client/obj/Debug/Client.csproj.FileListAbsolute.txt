@@ -1,0 +1,5 @@
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\TrustedFacade\CS\Client\bin\Client.exe.config
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\TrustedFacade\CS\Client\bin\Client.exe
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\TrustedFacade\CS\Client\bin\Client.pdb
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\TrustedFacade\CS\Client\obj\Debug\Client.exe
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\TrustedFacade\CS\Client\obj\Debug\Client.pdb

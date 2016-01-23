@@ -1,0 +1,10 @@
+D:\Documents\Documents\项目\上海花旗\Prism\Prism4.1\Quickstarts\EventAggregation\Desktop\EventAggregation.Infrastructure\bin\Debug\EventAggregation.Infrastructure.dll
+D:\Documents\Documents\项目\上海花旗\Prism\Prism4.1\Quickstarts\EventAggregation\Desktop\EventAggregation.Infrastructure\bin\Debug\EventAggregation.Infrastructure.pdb
+D:\Documents\Documents\项目\上海花旗\Prism\Prism4.1\Quickstarts\EventAggregation\Desktop\EventAggregation.Infrastructure\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Documents\Documents\项目\上海花旗\Prism\Prism4.1\Quickstarts\EventAggregation\Desktop\EventAggregation.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Documents\Documents\项目\上海花旗\Prism\Prism4.1\Quickstarts\EventAggregation\Desktop\EventAggregation.Infrastructure\bin\Debug\Microsoft.Practices.Prism.pdb
+D:\Documents\Documents\项目\上海花旗\Prism\Prism4.1\Quickstarts\EventAggregation\Desktop\EventAggregation.Infrastructure\bin\Debug\Microsoft.Practices.Prism.xml
+D:\Documents\Documents\项目\上海花旗\Prism\Prism4.1\Quickstarts\EventAggregation\Desktop\EventAggregation.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Documents\Documents\项目\上海花旗\Prism\Prism4.1\Quickstarts\EventAggregation\Desktop\EventAggregation.Infrastructure\obj\Debug\EventAggregation.Infrastructure.Desktop.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\项目\上海花旗\Prism\Prism4.1\Quickstarts\EventAggregation\Desktop\EventAggregation.Infrastructure\obj\Debug\EventAggregation.Infrastructure.dll
+D:\Documents\Documents\项目\上海花旗\Prism\Prism4.1\Quickstarts\EventAggregation\Desktop\EventAggregation.Infrastructure\obj\Debug\EventAggregation.Infrastructure.pdb

@@ -1,0 +1,67 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="MultiWindowResources.winEditUser"
+	x:Name="Window"
+	Title="Edit User"
+	Width="400" Height="300"
+	Background="{StaticResource winBackground}"
+	FontSize="16" FontWeight="Bold"
+	>
+	<Window.Resources>
+		<ResourceDictionary>
+			<ResourceDictionary.MergedDictionaries>
+				<ResourceDictionary Source="RectangleResources.xaml"/>
+			</ResourceDictionary.MergedDictionaries>
+		</ResourceDictionary>
+	</Window.Resources>
+	<Grid Margin="10">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="*"/>
+			<RowDefinition Height="80"/>
+		</Grid.RowDefinitions>
+		<Border Grid.Row="0" BorderBrush="Black" BorderThickness="1">
+			<TextBlock Background="White" Padding="5" TextWrapping="Wrap">
+				Place controls to edit users here...
+			</TextBlock>
+		</Border>
+		<StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right" Margin="5">
+            <Grid MouseDown="rectOk_MouseDown">
+                <Rectangle
+					Margin="{StaticResource rectMargin}"
+					Width="{StaticResource rectWidth}"
+					Height="{StaticResource rectHeight}"
+					RadiusX="{StaticResource rectRadX}"
+					RadiusY="{StaticResource rectRadY}"
+					Fill="{StaticResource rectFill}"
+					Stroke="{StaticResource rectStroke}"
+					StrokeThickness="{StaticResource rectStrokeThickness}"
+					BitmapEffect="{StaticResource rectBitmapEffect}"
+				 />
+				<Label HorizontalAlignment="Center" VerticalAlignment="Center"
+					Content="OK"
+					FontSize="{StaticResource rectFontSize}"
+					FontWeight="{StaticResource rectFontWeight}"
+				/>
+			</Grid>
+			<Grid MouseDown="rectCancel_MouseDown">
+				<Rectangle
+					Margin="{StaticResource rectMargin}"
+					Width="{StaticResource rectWidth}"
+					Height="{StaticResource rectHeight}"
+					RadiusX="{StaticResource rectRadX}"
+					RadiusY="{StaticResource rectRadY}"
+					Fill="{StaticResource rectFill}"
+					Stroke="{StaticResource rectStroke}"
+					StrokeThickness="{StaticResource rectStrokeThickness}"
+					BitmapEffect="{StaticResource rectBitmapEffect}"
+				 />
+				<Label HorizontalAlignment="Center" VerticalAlignment="Center"
+					Content="Cancel"
+					FontSize="{StaticResource rectFontSize}"
+					FontWeight="{StaticResource rectFontWeight}"
+				/>
+			</Grid>
+		</StackPanel>
+	</Grid>
+</Window>

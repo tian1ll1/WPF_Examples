@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryDemo", "AbstractFactoryDemo\AbstractFactoryDemo.csproj", "{403D1D73-1DEF-48BB-91FB-4BB1D68EAB82}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{51AAA884-13B1-4888-94C7-8E8866F42613}"
+	ProjectSection(SolutionItems) = preProject
+		AbstractFactoryDemo.vsd = AbstractFactoryDemo.vsd
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{403D1D73-1DEF-48BB-91FB-4BB1D68EAB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403D1D73-1DEF-48BB-91FB-4BB1D68EAB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403D1D73-1DEF-48BB-91FB-4BB1D68EAB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403D1D73-1DEF-48BB-91FB-4BB1D68EAB82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

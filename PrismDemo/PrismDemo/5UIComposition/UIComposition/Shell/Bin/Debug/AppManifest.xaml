@@ -1,0 +1,19 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="UIComposition.Shell" EntryPointType="UIComposition.Shell.App" RuntimeVersion="5.0.61118.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="UIComposition.Shell" Source="UIComposition.Shell.dll" />
+    <AssemblyPart x:Name="Microsoft.Practices.Prism" Source="Microsoft.Practices.Prism.dll" />
+    <AssemblyPart x:Name="Microsoft.Practices.Prism.UnityExtensions" Source="Microsoft.Practices.Prism.UnityExtensions.dll" />
+    <AssemblyPart x:Name="Microsoft.Practices.ServiceLocation" Source="Microsoft.Practices.ServiceLocation.dll" />
+    <AssemblyPart x:Name="Microsoft.Practices.Unity.Silverlight" Source="Microsoft.Practices.Unity.Silverlight.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls" Source="System.Windows.Controls.dll" />
+  </Deployment.Parts>
+  <!-- Uncomment the markup and update the fields below to make your application offline enabled
+    <Deployment.ApplicationIdentity>
+        <ApplicationIdentity 
+            ShortName="Out of Browser Silverlight Application" 
+            Title="Window Title of Your Silverlight Application">
+            <ApplicationIdentity.Blurb>Description of your Silverlight application</ApplicationIdentity.Blurb>
+        </ApplicationIdentity>
+    </Deployment.ApplicationIdentity>
+    -->
+</Deployment>

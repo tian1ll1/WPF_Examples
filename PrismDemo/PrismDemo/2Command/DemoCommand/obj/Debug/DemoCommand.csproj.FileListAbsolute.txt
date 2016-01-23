@@ -1,0 +1,98 @@
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\DemoCommand.exe.config
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\obj\Debug\DemoCommand.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\obj\Debug\Shell.baml
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\obj\Debug\Shell.g.cs
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\obj\Debug\App.g.cs
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\obj\Debug\DemoCommand_MarkupCompile.cache
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\obj\Debug\DemoCommand.g.resources
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\obj\Debug\DemoCommand.Properties.Resources.resources
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\obj\Debug\DemoCommand.csproj.GenerateResource.Cache
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\DemoCommand.exe
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\DemoCommand.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\System.Windows.Interactivity.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\Microsoft.Practices.Prism.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\Microsoft.Practices.Prism.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\Microsoft.Practices.Prism.Interactivity.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\Microsoft.Practices.Prism.MefExtensions.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\Microsoft.Practices.Prism.MefExtensions.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\System.Windows.Interactivity.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\obj\Debug\DemoCommand.exe
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\obj\Debug\DemoCommand.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\WpfModule.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\DemoCommand\bin\Debug\WpfModule.pdb
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\DemoCommand.exe.config
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\obj\Debug\DemoCommand.exe
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\obj\Debug\DemoCommand.pdb
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\DemoCommand.exe
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\DemoCommand.pdb
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\WpfModule.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\System.Windows.Interactivity.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\WpfModule.pdb
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\Microsoft.Practices.Prism.pdb
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\Microsoft.Practices.Prism.xml
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\Microsoft.Practices.Prism.Interactivity.pdb
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\Microsoft.Practices.Prism.MefExtensions.pdb
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\Microsoft.Practices.Prism.MefExtensions.xml
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.pdb
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\System.Windows.Interactivity.xml
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\obj\Debug\DemoCommand.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\obj\Debug\Shell.baml
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\obj\Debug\Shell.g.cs
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\obj\Debug\App.g.cs
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\obj\Debug\DemoCommand_MarkupCompile.cache
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\obj\Debug\DemoCommand.g.resources
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\obj\Debug\DemoCommand.Properties.Resources.resources
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\DemoCommand\obj\Debug\DemoCommand.csproj.GenerateResource.Cache
+D:\Documents\Documents\Lecture\Performance\SH2014\Demos\PrismDemo\2Command\DemoCommand\bin\Debug\DemoCommand.exe.config
+D:\Documents\Documents\Lecture\Performance\SH2014\Demos\PrismDemo\2Command\DemoCommand\obj\Debug\DemoCommand.exe
+D:\Documents\Documents\Lecture\Performance\SH2014\Demos\PrismDemo\2Command\DemoCommand\obj\Debug\DemoCommand.pdb
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\2Command\DemoCommand\bin\Debug\DemoCommand.exe.config
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\2Command\DemoCommand\obj\Debug\DemoCommand.exe
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\2Command\DemoCommand\obj\Debug\DemoCommand.pdb
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\2Command\DemoCommand\obj\Debug\DemoCommand.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\2Command\DemoCommand\obj\Debug\Shell.baml
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\2Command\DemoCommand\obj\Debug\Shell.g.cs
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\2Command\DemoCommand\obj\Debug\App.g.cs
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\2Command\DemoCommand\obj\Debug\DemoCommand_MarkupCompile.cache
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\2Command\DemoCommand\obj\Debug\DemoCommand.g.resources
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\2Command\DemoCommand\obj\Debug\DemoCommand.Properties.Resources.resources
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\2Command\DemoCommand\obj\Debug\DemoCommand.csproj.GenerateResource.Cache

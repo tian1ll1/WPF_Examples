@@ -1,0 +1,2 @@
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\VisitorDemo\VisitorDemo\obj\Debug\VisitorDemo.exe
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\VisitorDemo\VisitorDemo\obj\Debug\VisitorDemo.pdb

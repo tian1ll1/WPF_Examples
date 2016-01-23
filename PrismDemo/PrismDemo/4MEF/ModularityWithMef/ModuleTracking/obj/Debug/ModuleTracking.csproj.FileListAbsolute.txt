@@ -1,0 +1,10 @@
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleTracking\bin\Debug\ModularityWithMef.Desktop.ModuleTracking.dll
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleTracking\bin\Debug\ModularityWithMef.Desktop.ModuleTracking.pdb
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleTracking\obj\Debug\ModularityWithMef.Desktop.ModuleTracking.dll
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleTracking\obj\Debug\ModularityWithMef.Desktop.ModuleTracking.pdb
+C:\PrismV5\Quickstarts\Modularity\Desktop\ModularityWithMef\ModuleTracking\obj\Debug\ModuleTracking.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\4MEF\ModularityWithMef\ModuleTracking\bin\Debug\ModularityWithMef.Desktop.ModuleTracking.dll
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\4MEF\ModularityWithMef\ModuleTracking\bin\Debug\ModularityWithMef.Desktop.ModuleTracking.pdb
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\4MEF\ModularityWithMef\ModuleTracking\obj\Debug\ModuleTracking.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\4MEF\ModularityWithMef\ModuleTracking\obj\Debug\ModularityWithMef.Desktop.ModuleTracking.dll
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\4MEF\ModularityWithMef\ModuleTracking\obj\Debug\ModularityWithMef.Desktop.ModuleTracking.pdb

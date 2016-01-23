@@ -1,0 +1,5 @@
+bin\Debug\SQLBuilder.exe
+bin\Debug\SQLBuilder.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SQLBuilder.exe
+obj\Debug\SQLBuilder.pdb

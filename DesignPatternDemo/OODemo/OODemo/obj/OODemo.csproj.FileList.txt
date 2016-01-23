@@ -1,0 +1,8 @@
+bin\Debug\OODemo.exe
+bin\Debug\OODemo.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\OODemo.Form1.resources
+obj\Debug\OODemo.Properties.Resources.resources
+obj\Debug\OODemo.csproj.GenerateResource.Cache
+obj\Debug\OODemo.exe
+obj\Debug\OODemo.pdb

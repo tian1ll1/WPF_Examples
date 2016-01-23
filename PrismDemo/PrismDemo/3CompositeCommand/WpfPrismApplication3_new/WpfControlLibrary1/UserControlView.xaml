@@ -1,0 +1,28 @@
+﻿<TabItem x:Class="WpfControlLibrary1.UserControlView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:WpfControlLibrary1"
+    xmlns:cmd="clr-namespace:WpfControlLibrary1"
+    >
+    <TabItem.Resources>
+        <local:BooleanToVisibilityConverter x:Key="booleanToVisiabilityConverter" />
+    </TabItem.Resources>
+    <TabItem.HeaderTemplate>
+        <DataTemplate>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding Path=DataContext.FileName, RelativeSource={RelativeSource AncestorType={x:Type TabItem}}}" />
+                <TextBlock Text="*" Visibility="{Binding Path=DataContext.IsTextChanged, Converter={StaticResource booleanToVisiabilityConverter}, RelativeSource={RelativeSource AncestorType={x:Type TabItem}}}" />
+            </StackPanel>
+        </DataTemplate>
+    </TabItem.HeaderTemplate>
+    <TabItem.ContextMenu>
+        <ContextMenu StaysOpen="True">
+            <MenuItem Header="Close" Command="{Binding CloseCommand}"/>
+        </ContextMenu>
+    </TabItem.ContextMenu>
+    <Grid>
+        <TextBox Text="{Binding Path=FileText, Mode=TwoWay}" 
+                cmd:TextChanged.Command="{Binding TextChangedCommand}"
+                 />
+    </Grid>
+</TabItem>

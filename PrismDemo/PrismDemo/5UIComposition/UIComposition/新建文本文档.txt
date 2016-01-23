@@ -1,0 +1,17 @@
+1. LeftRegion -> view discovery
+   MainRegion -> view injection
+2. bootstrapper's CreateModuleCatalog  -> ModuleInit 
+3. 创建EmployeeSummaryView 时， TabRegion也就创建了，RegionContext绑定到CurrentEmployee(in xaml).
+4.  EmployeeDetailsView 和 EmployeeProjectsView 都订阅了RegionContext's PropertyChanged 事件。
+5. 在 EmployeesSummaryView.xaml 中显示了XAML把CurrentEmployee属性绑定到RegionContext中。
+6. 获取egionContext的数据：
+employeeDetailsViewModel.CurrentEmployee = 
+     RegionContext.GetObservableContext(this).Value as Employee; 
+7. 属性变更通知事件：
+RegionContext.GetObservableContext(this).PropertyChanged += (s, e)
+        =>
+        employeeDetailsViewModel.CurrentEmployee =
+        RegionContext.GetObservableContext(this).Value
+        as Employee;
+
+

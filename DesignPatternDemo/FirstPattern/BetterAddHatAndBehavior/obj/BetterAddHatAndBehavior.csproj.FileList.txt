@@ -1,0 +1,8 @@
+bin\Debug\BetterAddHatAndBehavior.exe
+bin\Debug\BetterAddHatAndBehavior.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BetterAddHatAndBehavior.Properties.Resources.resources
+obj\Debug\BetterAddHatAndBehavior.csproj.GenerateResource.Cache
+obj\Debug\BetterAddHatAndBehavior.exe
+obj\Debug\BetterAddHatAndBehavior.pdb
+obj\Debug\BetterAddHatAndBehavior.Form1.resources

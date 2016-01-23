@@ -1,0 +1,5 @@
+bin\Debug\Interpreter.exe
+bin\Debug\Interpreter.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interpreter.exe
+obj\Debug\Interpreter.pdb

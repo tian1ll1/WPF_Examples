@@ -1,0 +1,36 @@
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorldModule\bin\Debug\HelloWorldModule.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorldModule\bin\Debug\HelloWorldModule.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorldModule\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorldModule\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorldModule\bin\Debug\Microsoft.Practices.Prism.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorldModule\bin\Debug\Microsoft.Practices.Prism.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorldModule\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorldModule\obj\Debug\HelloWorldModule.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorldModule\obj\Debug\Views\HelloWorldView.baml
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorldModule\obj\Debug\Views\HelloWorldView.g.cs
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorldModule\obj\Debug\HelloWorldModule_MarkupCompile.cache
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorldModule\obj\Debug\HelloWorldModule.g.resources
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorldModule\obj\Debug\HelloWorldModule.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\HelloWorld.Desktop\HelloWorldModule\obj\Debug\HelloWorldModule.pdb
+E:\Lecture\Performance\SH2014\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\bin\Debug\HelloWorldModule.dll
+E:\Lecture\Performance\SH2014\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\bin\Debug\HelloWorldModule.pdb
+E:\Lecture\Performance\SH2014\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\bin\Debug\Microsoft.Practices.Prism.xml
+E:\Lecture\Performance\SH2014\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\obj\Debug\Views\HelloWorldView.baml
+E:\Lecture\Performance\SH2014\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\obj\Debug\Views\HelloWorldView.g.cs
+E:\Lecture\Performance\SH2014\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\obj\Debug\HelloWorldModule_MarkupCompile.cache
+E:\Lecture\Performance\SH2014\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\obj\Debug\HelloWorldModule.g.resources
+E:\Lecture\Performance\SH2014\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\obj\Debug\HelloWorldModule.dll
+E:\Lecture\Performance\SH2014\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\obj\Debug\HelloWorldModule.pdb
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\bin\Debug\HelloWorldModule.dll
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\bin\Debug\HelloWorldModule.pdb
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\obj\Debug\Views\HelloWorldView.baml
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\obj\Debug\Views\HelloWorldView.g.cs
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\obj\Debug\HelloWorldModule_MarkupCompile.cache
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\obj\Debug\HelloWorldModule.g.resources
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\obj\Debug\HelloWorldModule.dll
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\obj\Debug\HelloWorldModule.pdb
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\bin\Debug\Microsoft.Practices.Prism.pdb
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\bin\Debug\Microsoft.Practices.Prism.xml
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\1HelloWorld\HelloWorld.Desktop\HelloWorldModule\bin\Debug\Microsoft.Practices.ServiceLocation.xml

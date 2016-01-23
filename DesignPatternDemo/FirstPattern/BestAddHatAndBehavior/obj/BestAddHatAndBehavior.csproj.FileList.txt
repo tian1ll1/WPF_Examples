@@ -1,0 +1,8 @@
+bin\Debug\BestAddHatAndBehavior.exe
+bin\Debug\BestAddHatAndBehavior.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BestAddHatAndBehavior.Form1.resources
+obj\Debug\BestAddHatAndBehavior.Properties.Resources.resources
+obj\Debug\BestAddHatAndBehavior.csproj.GenerateResource.Cache
+obj\Debug\BestAddHatAndBehavior.exe
+obj\Debug\BestAddHatAndBehavior.pdb

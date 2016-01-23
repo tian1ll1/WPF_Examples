@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FirstPattern.Properties.Resources.resources
+obj\Debug\FirstPattern.csproj.GenerateResource.Cache
+bin\Debug\FirstPattern.exe
+bin\Debug\FirstPattern.pdb
+obj\Debug\FirstPattern.exe
+obj\Debug\FirstPattern.pdb
+obj\Debug\FirstPattern.Form1.resources

@@ -1,0 +1,2 @@
+obj\Debug\AirCondition.exe
+obj\Debug\AirCondition.pdb

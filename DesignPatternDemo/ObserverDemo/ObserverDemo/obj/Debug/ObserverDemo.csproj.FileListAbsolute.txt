@@ -1,0 +1,9 @@
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\ObserverDemo\ObserverDemo\obj\Debug\ObserverDemo.exe
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\ObserverDemo\ObserverDemo\obj\Debug\ObserverDemo.pdb
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\ObserverDemo\ObserverDemo\bin\Debug\ObserverDemo.exe
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\ObserverDemo\ObserverDemo\bin\Debug\ObserverDemo.pdb
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\ObserverDemo\ObserverDemo\obj\Debug\ObserverDemo.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\ObserverDemo\ObserverDemo\obj\Debug\ObserverDemo.Form1.resources
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\ObserverDemo\ObserverDemo\obj\Debug\ObserverDemo.Form2.resources
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\ObserverDemo\ObserverDemo\obj\Debug\ObserverDemo.Properties.Resources.resources
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\ObserverDemo\ObserverDemo\obj\Debug\ObserverDemo.csproj.GenerateResource.Cache

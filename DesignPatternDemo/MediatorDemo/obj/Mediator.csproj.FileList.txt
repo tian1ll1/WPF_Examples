@@ -1,0 +1,7 @@
+bin\Debug\Mediator.exe
+bin\Debug\Mediator.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Mediator.MainForm.resources
+obj\Debug\Mediator.csproj.GenerateResource.Cache
+obj\Debug\Mediator.exe
+obj\Debug\Mediator.pdb

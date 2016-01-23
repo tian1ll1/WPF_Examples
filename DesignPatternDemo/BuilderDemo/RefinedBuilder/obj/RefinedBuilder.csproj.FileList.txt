@@ -1,0 +1,10 @@
+bin\Debug\RefinedBuilder.exe
+bin\Debug\RefinedBuilder.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RefinedBuilder.Properties.Resources.resources
+obj\Debug\RefinedBuilder.csproj.GenerateResource.Cache
+obj\Debug\RefinedBuilder.exe
+obj\Debug\RefinedBuilder.pdb
+bin\Debug\RefinedBuilderLib.dll
+bin\Debug\RefinedBuilderLib.pdb
+obj\Debug\RefinedBuilder.Form1.resources

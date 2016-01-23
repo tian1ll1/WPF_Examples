@@ -1,0 +1,11 @@
+bin\Debug\CommandAndObserver.exe
+bin\Debug\CommandAndObserver.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CommandAndObserver.Properties.Resources.resources
+obj\Debug\CommandAndObserver.csproj.GenerateResource.Cache
+obj\Debug\CommandAndObserver.exe
+obj\Debug\CommandAndObserver.pdb
+obj\Debug\CommandAndObserver.Form1.resources
+obj\Debug\CommandAndObserver.TestForm.resources
+obj\Debug\CommandAndObserver.UserControl1.resources
+obj\Debug\CommandAndObserver.UserControl2.resources

@@ -1,0 +1,12 @@
+E:\Lecture\Performance\SH2014\Demos\BasicWPFDemo\DocumentCommands\DocumentCommands\bin\Debug\DocumentCommands.exe
+E:\Lecture\Performance\SH2014\Demos\BasicWPFDemo\DocumentCommands\DocumentCommands\bin\Debug\DocumentCommands.pdb
+E:\Lecture\Performance\SH2014\Demos\BasicWPFDemo\DocumentCommands\DocumentCommands\obj\Debug\DocumentCommands.csprojResolveAssemblyReference.cache
+E:\Lecture\Performance\SH2014\Demos\BasicWPFDemo\DocumentCommands\DocumentCommands\obj\Debug\Window1.baml
+E:\Lecture\Performance\SH2014\Demos\BasicWPFDemo\DocumentCommands\DocumentCommands\obj\Debug\Window1.g.cs
+E:\Lecture\Performance\SH2014\Demos\BasicWPFDemo\DocumentCommands\DocumentCommands\obj\Debug\App.g.cs
+E:\Lecture\Performance\SH2014\Demos\BasicWPFDemo\DocumentCommands\DocumentCommands\obj\Debug\DocumentCommands_MarkupCompile.cache
+E:\Lecture\Performance\SH2014\Demos\BasicWPFDemo\DocumentCommands\DocumentCommands\obj\Debug\DocumentCommands.g.resources
+E:\Lecture\Performance\SH2014\Demos\BasicWPFDemo\DocumentCommands\DocumentCommands\obj\Debug\DocumentCommands.exe
+E:\Lecture\Performance\SH2014\Demos\BasicWPFDemo\DocumentCommands\DocumentCommands\obj\Debug\DocumentCommands.pdb
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\BasicWPFDemo\DocumentCommands\DocumentCommands\obj\Debug\DocumentCommands.exe
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\BasicWPFDemo\DocumentCommands\DocumentCommands\obj\Debug\DocumentCommands.pdb

@@ -1,0 +1,10 @@
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\PrototypeDemo\PrototypeDemo\obj\Debug\PrototypeDemo.exe
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\PrototypeDemo\PrototypeDemo\obj\Debug\PrototypeDemo.pdb
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\PrototypeDemo\PrototypeDemo\bin\Debug\PrototypeDemo.exe
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\PrototypeDemo\PrototypeDemo\bin\Debug\PrototypeDemo.pdb
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\PrototypeDemo\PrototypeDemo\obj\Debug\PrototypeDemo.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\PrototypeDemo\PrototypeDemo\obj\Debug\PrototypeDemo.Form1.resources
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\PrototypeDemo\PrototypeDemo\obj\Debug\PrototypeDemo.Properties.Resources.resources
+C:\Users\pc\Documents\Lecture\DesignPattern\Demo\PrototypeDemo\PrototypeDemo\obj\Debug\PrototypeDemo.csproj.GenerateResource.Cache
+E:\Lecture\DesignPattern\Demo\PrototypeDemo\PrototypeDemo\obj\Debug\PrototypeDemo.exe
+E:\Lecture\DesignPattern\Demo\PrototypeDemo\PrototypeDemo\obj\Debug\PrototypeDemo.pdb

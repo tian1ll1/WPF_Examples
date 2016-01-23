@@ -1,0 +1,46 @@
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\WpfModule\obj\Debug\WpfModule_MarkupCompile.cache
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\WpfModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\WpfModule\obj\Debug\WpfModule_MarkupCompile.lref
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\WpfModule\bin\Debug\WpfModule.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\WpfModule\bin\Debug\WpfModule.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\WpfModule\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\WpfModule\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\WpfModule\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\WpfModule\bin\Debug\Microsoft.Practices.Prism.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\WpfModule\bin\Debug\Microsoft.Practices.Prism.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\WpfModule\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\WpfModule\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\WpfModule\obj\Debug\WpfModule.g.resources
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\WpfModule\obj\Debug\WpfModule.Properties.Resources.resources
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\WpfModule\obj\Debug\WpfModule.csproj.GenerateResource.Cache
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\WpfModule\obj\Debug\WpfModule.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\WpfModule\obj\Debug\WpfModule.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\WpfModule\obj\Debug\WpfModule.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\WpfModule\obj\Debug\Views\NewView.baml
+D:\Documents\Documents\Visual Studio 2013\Projects\DemoCommand\DemoCommand\WpfModule\obj\Debug\Views\NewView.g.cs
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\WpfModule\bin\Debug\WpfModule.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\WpfModule\bin\Debug\WpfModule.pdb
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\WpfModule\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\WpfModule\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\WpfModule\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\WpfModule\bin\Debug\Microsoft.Practices.Prism.pdb
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\WpfModule\bin\Debug\Microsoft.Practices.Prism.xml
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\WpfModule\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\WpfModule\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\WpfModule\obj\Debug\WpfModule.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\WpfModule\obj\Debug\Views\NewView.g.cs
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\WpfModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\WpfModule\obj\Debug\WpfModule_MarkupCompile.cache
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\WpfModule\obj\Debug\WpfModule_MarkupCompile.lref
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\WpfModule\obj\Debug\Views\NewView.baml
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\WpfModule\obj\Debug\WpfModule.g.resources
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\WpfModule\obj\Debug\WpfModule.Properties.Resources.resources
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\WpfModule\obj\Debug\WpfModule.csproj.GenerateResource.Cache
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\WpfModule\obj\Debug\WpfModule.dll
+D:\Documents\Documents\项目\上海花旗\Demos\2Command\WpfModule\obj\Debug\WpfModule.pdb
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\2Command\WpfModule\obj\Debug\WpfModule.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\2Command\WpfModule\obj\Debug\Views\NewView.g.cs
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\2Command\WpfModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\2Command\WpfModule\obj\Debug\WpfModule_MarkupCompile.cache
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\2Command\WpfModule\obj\Debug\WpfModule_MarkupCompile.lref
+D:\Documents\Documents\dotnet\WPF201601Shanghai\Performance\ShanghaiLecture\Demos\PrismDemo\2Command\WpfModule\obj\Debug\WpfModule.dll

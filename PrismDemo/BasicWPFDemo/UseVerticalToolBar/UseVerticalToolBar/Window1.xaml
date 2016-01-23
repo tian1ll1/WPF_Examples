@@ -1,0 +1,102 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="UseVerticalToolBar.Window1"
+	x:Name="Window"
+	Title="UseVerticalToolBar"
+	Width="300" Height="330">
+	<Window.Background>
+		<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.498,0.505">
+			<GradientStop Color="#FFFFFFFF" Offset="0"/>
+			<GradientStop Color="#FFFF00FF" Offset="1"/>
+		</LinearGradientBrush>
+	</Window.Background>
+	<Grid>
+		<ToolBarTray VerticalAlignment="Stretch" HorizontalAlignment="Left" 
+		 Orientation="Vertical">
+			<ToolBarTray.Background>
+				<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+					<GradientStop Color="White" Offset="0"/>
+					<GradientStop Color="Yellow" Offset="1"/>
+				</LinearGradientBrush>
+			</ToolBarTray.Background>
+		    <ToolBar Band="1" BandIndex="1"> <!-- Search -->
+		        <TextBox BorderBrush="Gray" Width="50" ToolBar.OverflowMode="Never" Text="find me" RenderTransformOrigin="0.5,0.5">
+		        	<TextBox.LayoutTransform>
+		        			<RotateTransform Angle="-90"/>
+		        	</TextBox.LayoutTransform>
+		        </TextBox>
+		        <Button ToolBar.OverflowMode="Never">
+		            <Image Source="search.ico" Height="24" Width="24"/>
+		        </Button>
+		        <Button ToolBar.OverflowMode="Never">
+		            <Image Source="search_reference.ico" Height="24" Width="24"/>
+		        </Button>
+		        <Button ToolBar.OverflowMode="Never">
+		            <Image Source="search4doc.ico" Height="24" Width="24"/>
+		        </Button>
+		        <Button ToolBar.OverflowMode="Never">
+		            <Image Source="search4files.ico" Height="24" Width="24"/>
+		        </Button>
+		        <Button ToolBar.OverflowMode="Never">
+		            <Image Source="search4printer.ico" Height="24" Width="24"/>
+		        </Button>
+		    </ToolBar>
+		    <ToolBar Band="2" BandIndex="1"> <!-- World -->
+		        <Button>
+		            <Image Source="world_question.ico" Height="24" Width="24"/>
+		        </Button>
+		        <Button>
+		            <Image Source="world_disconnect.ico" Height="24" Width="24"/>
+		        </Button>
+		        <Button>
+		            <Image Source="world_internetconnection.ico" Height="24" Width="24"/>
+		        </Button>
+		        <Button>
+		            <Image Source="world_mynetworkplaces.ico" Height="24" Width="24"/>
+		        </Button>
+		        <Button>
+		             <Image Height="24" Width="24" Source="world_p3oEnetres.ico"/>
+		        </Button>
+		    </ToolBar>
+		    <ToolBar Band="3" BandIndex="1"> <!-- Other -->
+		        <Button>
+		            <Image Height="24" Width="24" Source="mp3device.ico"/>
+		        </Button>
+		        <Button>
+		            <Image Source="cdmusic.ico" Height="24" Width="24"/>
+		        </Button>
+		        <Button>
+		            <Image Height="24" Width="24" Source="cellphone.ico"/>
+		        </Button>
+		        <Button>
+		            <Image Source="cab.ico" Height="24" Width="24"/>
+		        </Button>
+		        <Button>
+		            <Image Height="24" Width="24" Source="install.ico"/>
+		        </Button>
+		        <Button>
+		            <Image Height="24" Width="24" Source="keys.ico"/>
+		        </Button>
+		        <Button ToolBar.OverflowMode="Never">
+		            <Image Height="24" Width="24" Source="IPML.ICO"/>
+		        </Button>
+		        <Button ToolBar.OverflowMode="Never">
+		            <Image Height="24" Width="24" Source="mail.ico"/>
+		        </Button>
+		        <Button ToolBar.OverflowMode="Always">
+		            <Image Height="24" Width="24" Source="lan disconnect.ico"/>
+		        </Button>
+		        <Button ToolBar.OverflowMode="Always">
+		            <Image Height="24" Width="24" Source="mstsc.ico"/>
+		        </Button>
+		        <Button ToolBar.OverflowMode="Always">
+		            <Image Height="24" Width="24" Source="newfolder.ico"/>
+		        </Button>
+		        <Button ToolBar.OverflowMode="Always">
+		            <Image Height="24" Width="24" Source="otheroptions.ico"/>
+		        </Button>
+		    </ToolBar>
+		</ToolBarTray>
+	</Grid>
+</Window>

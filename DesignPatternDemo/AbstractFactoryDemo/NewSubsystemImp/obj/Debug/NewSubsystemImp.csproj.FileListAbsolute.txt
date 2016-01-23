@@ -1,0 +1,14 @@
+E:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\NewSubsystemImp\obj\Debug\NewSubsystemImp.csprojResolveAssemblyReference.cache
+E:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\NewSubsystemImp\bin\Debug\NewSubsystemImp.dll
+E:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\NewSubsystemImp\bin\Debug\NewSubsystemImp.pdb
+E:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\NewSubsystemImp\bin\Debug\DBSubsystemInterface.dll
+E:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\NewSubsystemImp\bin\Debug\DBSubsystemInterface.pdb
+E:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\NewSubsystemImp\obj\Debug\NewSubsystemImp.dll
+E:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\NewSubsystemImp\obj\Debug\NewSubsystemImp.pdb
+F:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\NewSubsystemImp\bin\Debug\NewSubsystemImp.dll
+F:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\NewSubsystemImp\bin\Debug\NewSubsystemImp.pdb
+F:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\NewSubsystemImp\bin\Debug\DBSubsystemInterface.dll
+F:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\NewSubsystemImp\bin\Debug\DBSubsystemInterface.pdb
+F:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\NewSubsystemImp\obj\Debug\NewSubsystemImp.csprojResolveAssemblyReference.cache
+F:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\NewSubsystemImp\obj\Debug\NewSubsystemImp.dll
+F:\Lecture\DesignPattern\Demo\AbstractFactoryDemo\NewSubsystemImp\obj\Debug\NewSubsystemImp.pdb

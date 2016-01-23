@@ -1,0 +1,31 @@
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\Common\bin\Debug\Common.dll
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\Common\bin\Debug\Common.pdb
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\Common\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\Common\obj\Debug\Common.Properties.Resources.resources
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\Common\obj\Debug\Common.dll
+C:\Users\baoj\Documents\Visual Studio 2008\Projects\WpfPrismApplication3\Common\obj\Debug\Common.pdb
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\Common\obj\Debug\Common.Properties.Resources.resources
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\Common\obj\Debug\Common.dll
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\Common\obj\Debug\Common.pdb
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\Common\bin\Debug\Common.dll
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\Common\bin\Debug\Common.pdb
+C:\Users\baoj\Desktop\WpfPrismApplication3_new\Common\bin\Debug\Microsoft.Practices.Composite.dll
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\Common\bin\Debug\Common.dll
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\Common\bin\Debug\Common.pdb
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\Common\bin\Debug\Microsoft.Practices.Composite.dll
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\Common\obj\Debug\Common.Properties.Resources.resources
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\Common\obj\Debug\Common.dll
+D:\Documents\Documents\项目\上海花旗\Prism\OtherDemo\WpfPrismApplication3_new\Common\obj\Debug\Common.pdb
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\Common\bin\Debug\Common.dll
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\Common\bin\Debug\Common.pdb
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\Common\bin\Debug\Microsoft.Practices.Composite.dll
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\Common\obj\Debug\Common.Properties.Resources.resources
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\Common\obj\Debug\Common.dll
+D:\Documents\Documents\项目\上海花旗\Demos\3CompositeCommand\WpfPrismApplication3_new\Common\obj\Debug\Common.pdb

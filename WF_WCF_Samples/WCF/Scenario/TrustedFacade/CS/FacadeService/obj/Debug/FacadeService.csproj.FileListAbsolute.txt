@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\TrustedFacade\CS\FacadeService\bin\FacadeService.exe.config
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\TrustedFacade\CS\FacadeService\bin\FacadeService.exe
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\TrustedFacade\CS\FacadeService\bin\FacadeService.pdb
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\TrustedFacade\CS\FacadeService\obj\Debug\FacadeService.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\TrustedFacade\CS\FacadeService\obj\Debug\FacadeService.exe
+C:\Users\pc\Documents\Lecture\Architecture_PPT\New\dotnetFramework_2014\code\.NET4.5\WF_WCF_Samples\WCF\Scenario\TrustedFacade\CS\FacadeService\obj\Debug\FacadeService.pdb
